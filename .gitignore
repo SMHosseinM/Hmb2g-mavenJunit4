@@ -1,0 +1,6 @@
+# IntelliJ files
+.idea/*
+Hmb2g-mavenJunit4.iml
+
+# mvn build package
+target/*
